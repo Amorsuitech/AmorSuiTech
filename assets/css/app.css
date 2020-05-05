@@ -10519,21 +10519,21 @@ img:not(.no-grow):hover {
 
 .btn-primary {
   background: #2ABCB0;
-  color: #FFFFF !important;
+  color: #FFFFFF !important;
   font-weight: 700;
   border: 1px solid #2ABCB0;
 }
 
 .btn-primary:hover {
-  background: #E0D611;
-  border: 1px solid #BEB502;
+  background: #000000;
+  border: 1px solid #000000;
 }
 
 .btn-secundary {
-  background: #3e923e;
+  background: #8073FA;
   color: #ffffff !important;
   font-weight: 700;
-  border: 1px solid #2B542C;
+  border: 1px solid #8073FA;
   font-size: 1.25rem;
 }
 
