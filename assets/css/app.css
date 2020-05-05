@@ -10334,7 +10334,7 @@ body.fixed {
   z-index: 2;
 }
 
-.hero__device-mockup:before {
+/*.hero__device-mockup:before {
   content: '';
   position: absolute;
   width: 530px;
@@ -10344,7 +10344,7 @@ body.fixed {
   top: 40%;
   margin-left: -100px;
   z-index: 1;
-}
+}*/
 
 @media (max-width: 767.98px) {
   .hero__device-mockup:before {
