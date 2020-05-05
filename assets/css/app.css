@@ -10364,7 +10364,7 @@ body.fixed {
   }
 }
 
-.hero__device-mockup:after {
+/*.hero__device-mockup:after {
   content: '';
   position: absolute;
   width: 570px;
@@ -10374,7 +10374,7 @@ body.fixed {
   top: 20%;
   margin-left: -160px;
   z-index: 1;
-}
+}*/
 
 @media (max-width: 767.98px) {
   .hero__device-mockup:after {
@@ -10407,7 +10407,7 @@ body.fixed {
   padding: 0 0 10rem 0;
 }
 
-.features .feature-1 .features__feature-device:after {
+/*.features .feature-1 .features__feature-device:after {
   content: '';
   position: absolute;
   width: 540px;
@@ -10418,7 +10418,7 @@ body.fixed {
   top: 20%;
   left: 0%;
   z-index: 1;
-}
+}*/
 
 @media (max-width: 767.98px) {
   .features .feature-1 .features__feature-device:after {
@@ -10441,7 +10441,7 @@ body.fixed {
   }
 }
 
-.features .feature-2 .features__feature-device:after {
+/*.features .feature-2 .features__feature-device:after {
   content: '';
   position: absolute;
   width: 540px;
@@ -10452,7 +10452,7 @@ body.fixed {
   top: -70%;
   left: 0%;
   z-index: 1;
-}
+}*/
 
 @media (max-width: 767.98px) {
   .features .feature-2 .features__feature-device:after {
