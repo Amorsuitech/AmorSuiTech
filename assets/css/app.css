@@ -10519,9 +10519,9 @@ img:not(.no-grow):hover {
 
 .btn-primary {
   background: #2ABCB0;
-  color: #373A3C !important;
+  color: #FFFFF !important;
   font-weight: 700;
-  border: 1px solid #BEB502;
+  border: 1px solid #2ABCB0;
 }
 
 .btn-primary:hover {
