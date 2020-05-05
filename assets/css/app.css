@@ -10539,6 +10539,7 @@ img:not(.no-grow):hover {
 
 .btn-secundary:hover {
   background: #000000;
+  border: 1px solid #000000;
 }
 
 .btn-ghost {
