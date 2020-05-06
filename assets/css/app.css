@@ -10334,18 +10334,6 @@ body.fixed {
   z-index: 2;
 }
 
-/*.hero__device-mockup:before {
-  content: '';
-  position: absolute;
-  width: 530px;
-  height: 400px;
-  background-image: url(../img/hero-drawing-popcorn.png);
-  background-repeat: no-repeat;
-  top: 40%;
-  margin-left: -100px;
-  z-index: 1;
-}*/
-
 @media (max-width: 767.98px) {
   .hero__device-mockup:before {
     width: calc(530px / 4);
@@ -10363,18 +10351,6 @@ body.fixed {
     margin-left: -90px;
   }
 }
-
-/*.hero__device-mockup:after {
-  content: '';
-  position: absolute;
-  width: 570px;
-  height: 430px;
-  background-image: url(../img/hero-drawing-mail.png);
-  background-repeat: no-repeat;
-  top: 20%;
-  margin-left: -160px;
-  z-index: 1;
-}*/
 
 @media (max-width: 767.98px) {
   .hero__device-mockup:after {
@@ -10407,19 +10383,6 @@ body.fixed {
   padding: 0 0 10rem 0;
 }
 
-/*.features .feature-1 .features__feature-device:after {
-  content: '';
-  position: absolute;
-  width: 540px;
-  height: 405px;
-  background-image: url(../img/features-drawing-moonlanding.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  top: 20%;
-  left: 0%;
-  z-index: 1;
-}*/
-
 @media (max-width: 767.98px) {
   .features .feature-1 .features__feature-device:after {
     width: calc(100% - 40px);
@@ -10440,19 +10403,6 @@ body.fixed {
     top: 30%;
   }
 }
-
-/*.features .feature-2 .features__feature-device:after {
-  content: '';
-  position: absolute;
-  width: 540px;
-  height: 405px;
-  background-image: url(../img/features-drawing-buildings.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  top: -70%;
-  left: 0%;
-  z-index: 1;
-}*/
 
 @media (max-width: 767.98px) {
   .features .feature-2 .features__feature-device:after {
